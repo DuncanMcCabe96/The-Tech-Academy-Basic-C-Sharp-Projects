@@ -1,0 +1,7 @@
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\WelcomeScreen\WelcomeScreen\bin\Debug\WelcomeScreen.exe.config
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\WelcomeScreen\WelcomeScreen\bin\Debug\WelcomeScreen.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\WelcomeScreen\WelcomeScreen\bin\Debug\WelcomeScreen.pdb
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\WelcomeScreen\WelcomeScreen\obj\Debug\WelcomeScreen.csproj.AssemblyReference.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\WelcomeScreen\WelcomeScreen\obj\Debug\WelcomeScreen.csproj.CoreCompileInputs.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\WelcomeScreen\WelcomeScreen\obj\Debug\WelcomeScreen.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\WelcomeScreen\WelcomeScreen\obj\Debug\WelcomeScreen.pdb
