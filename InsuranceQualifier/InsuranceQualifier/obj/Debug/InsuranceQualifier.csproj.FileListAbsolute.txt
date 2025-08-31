@@ -1,0 +1,7 @@
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualifier\InsuranceQualifier\bin\Debug\InsuranceQualifier.exe.config
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualifier\InsuranceQualifier\bin\Debug\InsuranceQualifier.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualifier\InsuranceQualifier\bin\Debug\InsuranceQualifier.pdb
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualifier\InsuranceQualifier\obj\Debug\InsuranceQualifier.csproj.AssemblyReference.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualifier\InsuranceQualifier\obj\Debug\InsuranceQualifier.csproj.CoreCompileInputs.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualifier\InsuranceQualifier\obj\Debug\InsuranceQualifier.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\InsuranceQualifier\InsuranceQualifier\obj\Debug\InsuranceQualifier.pdb
