@@ -1,0 +1,7 @@
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\WhileStatmentPractice\WhileStatmentPractice\bin\Debug\WhileStatmentPractice.exe.config
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\WhileStatmentPractice\WhileStatmentPractice\bin\Debug\WhileStatmentPractice.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\WhileStatmentPractice\WhileStatmentPractice\bin\Debug\WhileStatmentPractice.pdb
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\WhileStatmentPractice\WhileStatmentPractice\obj\Debug\WhileStatmentPractice.csproj.AssemblyReference.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\WhileStatmentPractice\WhileStatmentPractice\obj\Debug\WhileStatmentPractice.csproj.CoreCompileInputs.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\WhileStatmentPractice\WhileStatmentPractice\obj\Debug\WhileStatmentPractice.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\WhileStatmentPractice\WhileStatmentPractice\obj\Debug\WhileStatmentPractice.pdb
