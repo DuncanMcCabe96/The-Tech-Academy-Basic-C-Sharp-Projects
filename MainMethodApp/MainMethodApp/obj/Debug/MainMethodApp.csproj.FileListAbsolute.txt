@@ -1,0 +1,7 @@
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\MainMethodApp\MainMethodApp\bin\Debug\MainMethodApp.exe.config
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\MainMethodApp\MainMethodApp\bin\Debug\MainMethodApp.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\MainMethodApp\MainMethodApp\bin\Debug\MainMethodApp.pdb
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.csproj.AssemblyReference.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.csproj.CoreCompileInputs.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\MainMethodApp\MainMethodApp\obj\Debug\MainMethodApp.pdb
