@@ -1,0 +1,7 @@
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\NamedParameterApp\NamedParameterApp\bin\Debug\NamedParameterApp.exe.config
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\NamedParameterApp\NamedParameterApp\bin\Debug\NamedParameterApp.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\NamedParameterApp\NamedParameterApp\bin\Debug\NamedParameterApp.pdb
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\NamedParameterApp\NamedParameterApp\obj\Debug\NamedParameterApp.csproj.AssemblyReference.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\NamedParameterApp\NamedParameterApp\obj\Debug\NamedParameterApp.csproj.CoreCompileInputs.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\NamedParameterApp\NamedParameterApp\obj\Debug\NamedParameterApp.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\NamedParameterApp\NamedParameterApp\obj\Debug\NamedParameterApp.pdb
