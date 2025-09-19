@@ -1,0 +1,7 @@
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\PersonEmployeeApp\PersonEmployeeApp\bin\Debug\PersonEmployeeApp.exe.config
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\PersonEmployeeApp\PersonEmployeeApp\bin\Debug\PersonEmployeeApp.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\PersonEmployeeApp\PersonEmployeeApp\bin\Debug\PersonEmployeeApp.pdb
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\PersonEmployeeApp\PersonEmployeeApp\obj\Debug\PersonEmployeeApp.csproj.AssemblyReference.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\PersonEmployeeApp\PersonEmployeeApp\obj\Debug\PersonEmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\PersonEmployeeApp\PersonEmployeeApp\obj\Debug\PersonEmployeeApp.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\PersonEmployeeApp\PersonEmployeeApp\obj\Debug\PersonEmployeeApp.pdb
