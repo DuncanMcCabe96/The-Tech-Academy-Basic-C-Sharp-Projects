@@ -1,0 +1,7 @@
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\GenericEmployeeApp\GenericEmployeeApp\bin\Debug\GenericEmployeeApp.exe.config
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\GenericEmployeeApp\GenericEmployeeApp\bin\Debug\GenericEmployeeApp.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\GenericEmployeeApp\GenericEmployeeApp\bin\Debug\GenericEmployeeApp.pdb
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\GenericEmployeeApp\GenericEmployeeApp\obj\Debug\GenericEmployeeApp.csproj.AssemblyReference.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\GenericEmployeeApp\GenericEmployeeApp\obj\Debug\GenericEmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\GenericEmployeeApp\GenericEmployeeApp\obj\Debug\GenericEmployeeApp.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\GenericEmployeeApp\GenericEmployeeApp\obj\Debug\GenericEmployeeApp.pdb
