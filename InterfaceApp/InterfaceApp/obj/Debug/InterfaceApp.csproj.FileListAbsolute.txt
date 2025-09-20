@@ -1,0 +1,7 @@
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\InterfaceApp\InterfaceApp\bin\Debug\InterfaceApp.exe.config
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\InterfaceApp\InterfaceApp\bin\Debug\InterfaceApp.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\InterfaceApp\InterfaceApp\bin\Debug\InterfaceApp.pdb
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\InterfaceApp\InterfaceApp\obj\Debug\InterfaceApp.csproj.AssemblyReference.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\InterfaceApp\InterfaceApp\obj\Debug\InterfaceApp.csproj.CoreCompileInputs.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\InterfaceApp\InterfaceApp\obj\Debug\InterfaceApp.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\InterfaceApp\InterfaceApp\obj\Debug\InterfaceApp.pdb
