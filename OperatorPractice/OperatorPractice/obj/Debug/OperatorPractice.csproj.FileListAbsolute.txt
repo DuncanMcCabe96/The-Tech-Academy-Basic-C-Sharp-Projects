@@ -1,0 +1,7 @@
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\OperatorPractice\OperatorPractice\bin\Debug\OperatorPractice.exe.config
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\OperatorPractice\OperatorPractice\bin\Debug\OperatorPractice.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\OperatorPractice\OperatorPractice\bin\Debug\OperatorPractice.pdb
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\OperatorPractice\OperatorPractice\obj\Debug\OperatorPractice.csproj.AssemblyReference.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\OperatorPractice\OperatorPractice\obj\Debug\OperatorPractice.csproj.CoreCompileInputs.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\OperatorPractice\OperatorPractice\obj\Debug\OperatorPractice.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\OperatorPractice\OperatorPractice\obj\Debug\OperatorPractice.pdb
