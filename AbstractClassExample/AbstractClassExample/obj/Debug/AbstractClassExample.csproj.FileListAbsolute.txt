@@ -1,0 +1,7 @@
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\AbstractClassExample\AbstractClassExample\bin\Debug\AbstractClassExample.exe.config
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\AbstractClassExample\AbstractClassExample\bin\Debug\AbstractClassExample.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\AbstractClassExample\AbstractClassExample\bin\Debug\AbstractClassExample.pdb
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.csproj.AssemblyReference.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.csproj.CoreCompileInputs.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\AbstractClassExample\AbstractClassExample\obj\Debug\AbstractClassExample.pdb
