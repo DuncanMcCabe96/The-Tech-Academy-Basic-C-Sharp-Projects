@@ -1,0 +1,7 @@
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\EnumPractice\EnumPractice\bin\Debug\EnumPractice.exe.config
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\EnumPractice\EnumPractice\bin\Debug\EnumPractice.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\EnumPractice\EnumPractice\bin\Debug\EnumPractice.pdb
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\EnumPractice\EnumPractice\obj\Debug\EnumPractice.csproj.AssemblyReference.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\EnumPractice\EnumPractice\obj\Debug\EnumPractice.csproj.CoreCompileInputs.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\EnumPractice\EnumPractice\obj\Debug\EnumPractice.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\EnumPractice\EnumPractice\obj\Debug\EnumPractice.pdb
