@@ -1,0 +1,7 @@
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\EmployeeAppLambda\EmployeeAppLambda\bin\Debug\EmployeeAppLambda.exe.config
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\EmployeeAppLambda\EmployeeAppLambda\bin\Debug\EmployeeAppLambda.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\EmployeeAppLambda\EmployeeAppLambda\bin\Debug\EmployeeAppLambda.pdb
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\EmployeeAppLambda\EmployeeAppLambda\obj\Debug\EmployeeAppLambda.csproj.AssemblyReference.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\EmployeeAppLambda\EmployeeAppLambda\obj\Debug\EmployeeAppLambda.csproj.CoreCompileInputs.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\EmployeeAppLambda\EmployeeAppLambda\obj\Debug\EmployeeAppLambda.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\EmployeeAppLambda\EmployeeAppLambda\obj\Debug\EmployeeAppLambda.pdb
