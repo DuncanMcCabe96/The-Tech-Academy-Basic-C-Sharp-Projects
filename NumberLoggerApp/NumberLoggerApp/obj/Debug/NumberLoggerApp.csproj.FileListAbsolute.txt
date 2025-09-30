@@ -1,0 +1,7 @@
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\NumberLoggerApp\NumberLoggerApp\bin\Debug\NumberLoggerApp.exe.config
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\NumberLoggerApp\NumberLoggerApp\bin\Debug\NumberLoggerApp.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\NumberLoggerApp\NumberLoggerApp\bin\Debug\NumberLoggerApp.pdb
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\NumberLoggerApp\NumberLoggerApp\obj\Debug\NumberLoggerApp.csproj.AssemblyReference.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\NumberLoggerApp\NumberLoggerApp\obj\Debug\NumberLoggerApp.csproj.CoreCompileInputs.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\NumberLoggerApp\NumberLoggerApp\obj\Debug\NumberLoggerApp.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\NumberLoggerApp\NumberLoggerApp\obj\Debug\NumberLoggerApp.pdb
