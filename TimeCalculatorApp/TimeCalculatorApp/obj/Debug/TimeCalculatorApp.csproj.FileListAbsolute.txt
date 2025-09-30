@@ -1,0 +1,7 @@
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\TimeCalculatorApp\TimeCalculatorApp\bin\Debug\TimeCalculatorApp.exe.config
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\TimeCalculatorApp\TimeCalculatorApp\bin\Debug\TimeCalculatorApp.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\TimeCalculatorApp\TimeCalculatorApp\bin\Debug\TimeCalculatorApp.pdb
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\TimeCalculatorApp\TimeCalculatorApp\obj\Debug\TimeCalculatorApp.csproj.AssemblyReference.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\TimeCalculatorApp\TimeCalculatorApp\obj\Debug\TimeCalculatorApp.csproj.CoreCompileInputs.cache
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\TimeCalculatorApp\TimeCalculatorApp\obj\Debug\TimeCalculatorApp.exe
+C:\Users\djm90\OneDrive\Desktop\Basic_C#_Programs\TimeCalculatorApp\TimeCalculatorApp\obj\Debug\TimeCalculatorApp.pdb
